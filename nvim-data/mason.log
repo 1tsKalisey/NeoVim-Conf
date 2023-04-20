@@ -1,0 +1,13 @@
+[ERROR 13/04/2023 11:07:25] ...al/nvim-data/lazy/mason.nvim/lua/mason-registry/init.lua:78: Cannot find package "\"stylua\"".
+[ERROR 13/04/2023 11:08:27] ...al/nvim-data/lazy/mason.nvim/lua/mason-registry/init.lua:78: Cannot find package "\"stylua\"".
+[ERROR 13/04/2023 11:11:02] ...al/nvim-data/lazy/mason.nvim/lua/mason-registry/init.lua:78: Cannot find package "\"stylua\"".
+[INFO  13/04/2023 12:07:57] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:166: Executing installer for Package(name=stylua) {}
+[INFO  13/04/2023 12:07:57] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:166: Executing installer for Package(name=shfmt) {}
+[INFO  13/04/2023 12:07:57] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:166: Executing installer for Package(name=json-lsp) {}
+[INFO  13/04/2023 12:07:57] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:166: Executing installer for Package(name=lua-language-server) {}
+[INFO  13/04/2023 12:07:58] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:193: Installation succeeded for Package(name=shfmt)
+[INFO  13/04/2023 12:08:00] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:193: Installation succeeded for Package(name=stylua)
+[INFO  13/04/2023 12:08:05] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:193: Installation succeeded for Package(name=lua-language-server)
+[INFO  13/04/2023 12:08:14] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:193: Installation succeeded for Package(name=json-lsp)
+[INFO  18/04/2023 9:46:24] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:166: Executing installer for Package(name=typescript-language-server) {}
+[INFO  18/04/2023 9:46:44] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:193: Installation succeeded for Package(name=typescript-language-server)

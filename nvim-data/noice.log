@@ -1,0 +1,369 @@
+
+
+13/04/2023 11:07:12
+...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+
+stack traceback:
+	[C]: in function 'pcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function '_ts_parse_query'
+	...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:62: in function 'fn'
+	...4/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:55: in function 'highlight'
+	...
+	...Local/nvim-data/lazy/noice.nvim/lua/noice/text/block.lua:97: in function 'render'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:249: in function 'render'
+	...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:290: in function <...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:276>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:136: in function 'display'
+	...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:204: in function <...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:144>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:99: in function <...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:74>
+
+13/04/2023 11:07:13
+...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+
+stack traceback:
+	[C]: in function 'pcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function '_ts_parse_query'
+	...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:62: in function 'fn'
+	...4/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:55: in function 'highlight'
+	...
+	...Local/nvim-data/lazy/noice.nvim/lua/noice/text/block.lua:97: in function 'render'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:249: in function 'render'
+	...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:290: in function <...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:276>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:136: in function 'display'
+	...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:204: in function <...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:144>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:99: in function <...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:74>
+
+13/04/2023 11:07:46
+...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+
+stack traceback:
+	[C]: in function 'pcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function '_ts_parse_query'
+	...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:62: in function 'fn'
+	...4/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:55: in function 'highlight'
+	...
+	...Local/nvim-data/lazy/noice.nvim/lua/noice/text/block.lua:97: in function 'render'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:249: in function 'render'
+	...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:290: in function <...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:276>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:136: in function 'display'
+	...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:204: in function <...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:144>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:99: in function <...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:74>
+
+13/04/2023 11:07:47
+...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+
+stack traceback:
+	[C]: in function 'pcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function '_ts_parse_query'
+	...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:62: in function 'fn'
+	...4/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:55: in function 'highlight'
+	...
+	...Local/nvim-data/lazy/noice.nvim/lua/noice/text/block.lua:97: in function 'render'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:249: in function 'render'
+	...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:290: in function <...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:276>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:136: in function 'display'
+	...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:204: in function <...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:144>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:99: in function <...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:74>
+
+13/04/2023 11:16:38
+...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+
+stack traceback:
+	[C]: in function 'pcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function '_ts_parse_query'
+	...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:62: in function 'fn'
+	...4/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:55: in function 'highlight'
+	...
+	...Local/nvim-data/lazy/noice.nvim/lua/noice/text/block.lua:97: in function 'render'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:249: in function 'render'
+	...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:290: in function <...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:276>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:136: in function 'display'
+	...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:204: in function <...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:144>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:99: in function <...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:74>
+
+13/04/2023 11:16:47
+...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+
+stack traceback:
+	[C]: in function 'pcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function '_ts_parse_query'
+	...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:62: in function 'fn'
+	...4/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:55: in function 'highlight'
+	...
+	...Local/nvim-data/lazy/noice.nvim/lua/noice/text/block.lua:97: in function 'render'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:249: in function 'render'
+	...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:290: in function <...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:276>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:136: in function 'display'
+	...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:204: in function <...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:144>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:99: in function <...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:74>
+
+13/04/2023 11:16:47
+...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+
+stack traceback:
+	[C]: in function 'pcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function '_ts_parse_query'
+	...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:62: in function 'fn'
+	...4/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:55: in function 'highlight'
+	...
+	...Local/nvim-data/lazy/noice.nvim/lua/noice/text/block.lua:97: in function 'render'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:249: in function 'render'
+	...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:290: in function <...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:276>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:136: in function 'display'
+	...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:204: in function <...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:144>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:99: in function <...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:74>
+
+13/04/2023 12:08:23
+...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+
+stack traceback:
+	[C]: in function 'pcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function '_ts_parse_query'
+	...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:62: in function 'fn'
+	...4/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:55: in function 'highlight'
+	...
+	...Local/nvim-data/lazy/noice.nvim/lua/noice/text/block.lua:97: in function 'render'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:249: in function 'render'
+	...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:290: in function <...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:276>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:136: in function 'display'
+	...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:204: in function <...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:144>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:99: in function <...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:74>
+
+13/04/2023 12:08:24
+...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+
+stack traceback:
+	[C]: in function 'pcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function '_ts_parse_query'
+	...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:62: in function 'fn'
+	...4/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:55: in function 'highlight'
+	...
+	...Local/nvim-data/lazy/noice.nvim/lua/noice/text/block.lua:97: in function 'render'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:249: in function 'render'
+	...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:290: in function <...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:276>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:136: in function 'display'
+	...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:204: in function <...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:144>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:99: in function <...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:74>
+
+13/04/2023 12:08:24
+...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+
+stack traceback:
+	[C]: in function 'pcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function '_ts_parse_query'
+	...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:62: in function 'fn'
+	...4/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:55: in function 'highlight'
+	...
+	...Local/nvim-data/lazy/noice.nvim/lua/noice/text/block.lua:97: in function 'render'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:249: in function 'render'
+	...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:290: in function <...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:276>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:136: in function 'display'
+	...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:204: in function <...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:144>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:99: in function <...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:74>
+
+13/04/2023 12:08:25
+...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+
+stack traceback:
+	[C]: in function 'pcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function '_ts_parse_query'
+	...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:62: in function 'fn'
+	...4/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:55: in function 'highlight'
+	...
+	...Local/nvim-data/lazy/noice.nvim/lua/noice/text/block.lua:97: in function 'render'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:249: in function 'render'
+	...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:290: in function <...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:276>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:136: in function 'display'
+	...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:204: in function <...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:144>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:99: in function <...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:74>
+
+13/04/2023 12:08:25
+...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+
+stack traceback:
+	[C]: in function 'pcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function '_ts_parse_query'
+	...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:62: in function 'fn'
+	...4/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:55: in function 'highlight'
+	...
+	...Local/nvim-data/lazy/noice.nvim/lua/noice/text/block.lua:97: in function 'render'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:249: in function 'render'
+	...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:290: in function <...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:276>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:136: in function 'display'
+	...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:204: in function <...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:144>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:99: in function <...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:74>
+
+13/04/2023 12:08:25
+...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+
+stack traceback:
+	[C]: in function 'pcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function '_ts_parse_query'
+	...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:62: in function 'fn'
+	...4/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:55: in function 'highlight'
+	...
+	...Local/nvim-data/lazy/noice.nvim/lua/noice/text/block.lua:97: in function 'render'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:249: in function 'render'
+	...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:290: in function <...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:276>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:136: in function 'display'
+	...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:204: in function <...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:144>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:99: in function <...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:74>
+
+13/04/2023 12:08:28
+...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+
+stack traceback:
+	[C]: in function 'pcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function '_ts_parse_query'
+	...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:62: in function 'fn'
+	...4/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:55: in function 'highlight'
+	...
+	...Local/nvim-data/lazy/noice.nvim/lua/noice/text/block.lua:97: in function 'render'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:249: in function 'render'
+	...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:290: in function <...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:276>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:136: in function 'display'
+	...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:204: in function <...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:144>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:99: in function <...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:74>
+
+13/04/2023 12:08:31
+...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+
+stack traceback:
+	[C]: in function 'pcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function '_ts_parse_query'
+	...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:62: in function 'fn'
+	...4/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:55: in function 'highlight'
+	...
+	...Local/nvim-data/lazy/noice.nvim/lua/noice/text/block.lua:97: in function 'render'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:249: in function 'render'
+	...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:290: in function <...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:276>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:136: in function 'display'
+	...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:204: in function <...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:144>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:99: in function <...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:74>
+
+13/04/2023 12:08:31
+...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+
+stack traceback:
+	[C]: in function 'pcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function '_ts_parse_query'
+	...im-win64/share/nvim/runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:62: in function 'fn'
+	...4/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	.../nvim-data/lazy/noice.nvim/lua/noice/text/treesitter.lua:55: in function 'highlight'
+	...
+	...Local/nvim-data/lazy/noice.nvim/lua/noice/text/block.lua:97: in function 'render'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:249: in function 'render'
+	...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:290: in function <...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:276>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:136: in function 'display'
+	...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:204: in function <...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:144>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:99: in function <...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:74>

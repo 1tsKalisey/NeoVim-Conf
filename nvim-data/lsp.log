@@ -1,0 +1,16 @@
+[START][2023-04-13 11:07:25] LSP logging initiated
+[ERROR][2023-04-13 11:07:25] .../vim/lsp/rpc.lua:733	"rpc"	"cmd.exe"	"stderr"	'"lua-language-server" no se reconoce como un comando interno o externo,\r\nprograma o archivo por lotes ejecutable.\r\n'
+[START][2023-04-13 11:08:27] LSP logging initiated
+[ERROR][2023-04-13 11:08:27] .../vim/lsp/rpc.lua:733	"rpc"	"cmd.exe"	"stderr"	'"lua-language-server" no se reconoce como un comando interno o externo,\r\nprograma o archivo por lotes ejecutable.\r\n'
+[START][2023-04-13 11:11:02] LSP logging initiated
+[ERROR][2023-04-13 11:11:02] .../vim/lsp/rpc.lua:733	"rpc"	"cmd.exe"	"stderr"	'"lua-language-server" no se reconoce como un comando interno o externo,\r\nprograma o archivo por lotes ejecutable.\r\n'
+[START][2023-04-14 10:39:18] LSP logging initiated
+[ERROR][2023-04-14 10:39:18] .../vim/lsp/rpc.lua:733	"rpc"	"cmd.exe"	"stderr"	"^C"
+[START][2023-04-18 09:46:56] LSP logging initiated
+[WARN][2023-04-18 09:46:56] .../lua/vim/lsp.lua:96	"method textDocument/hover is not supported by any of the servers registered for the current buffer"
+[WARN][2023-04-18 09:46:57] .../lua/vim/lsp.lua:96	"method textDocument/hover is not supported by any of the servers registered for the current buffer"
+[WARN][2023-04-18 09:46:58] .../lua/vim/lsp.lua:96	"method textDocument/hover is not supported by any of the servers registered for the current buffer"
+[WARN][2023-04-18 09:46:59] .../lua/vim/lsp.lua:96	"method textDocument/hover is not supported by any of the servers registered for the current buffer"
+[WARN][2023-04-18 09:46:59] .../lua/vim/lsp.lua:96	"method textDocument/hover is not supported by any of the servers registered for the current buffer"
+[START][2023-04-18 10:06:36] LSP logging initiated
+[ERROR][2023-04-18 10:06:36] .../vim/lsp/rpc.lua:733	"rpc"	"cmd.exe"	"stderr"	"^C"
